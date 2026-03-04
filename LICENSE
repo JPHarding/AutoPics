@@ -14,7 +14,6 @@ This project bundles or depends on the following components:
 - Pillow - PIL Software License
 - pillow-avif-plugin - Apache 2.0
 - pillow-jxl-plugin - GPL 3.0
-- pandas - BSD-3-Clause
 - Python Interpreter - PSF License
 
 Full license texts are included in the third_party_licenses folder.
