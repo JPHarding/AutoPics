@@ -1,26 +1,3 @@
-AutoPics
-Copyright (c) 2025 Juan-Paul Harding
-
-Licensed under the GNU General Public License v3.0 License.
-See full text below.
-
----------------------------------------------------------------------
-
-THIRD-PARTY LICENSES
-
-This project bundles or depends on the following components:
-
-- PySide6 (Qt for Python) - LGPLv3
-- Pillow - PIL Software License
-- pillow-avif-plugin - Apache 2.0
-- pillow-jxl-plugin - GPL 3.0
-- pandas - BSD-3-Clause
-- Python Interpreter - PSF License
-
-Full license texts are included in the third_party_licenses folder.
-
----------------------------------------------------------------------
-
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -694,5 +671,4 @@ into proprietary programs.  If your program is a subroutine library, you
 may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
-<https://www.gnu.org/licenses/why-not-lgpl.html>.---------------------------------------------------------------------
-
+<https://www.gnu.org/licenses/why-not-lgpl.html>.
