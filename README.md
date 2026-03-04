@@ -49,7 +49,7 @@ pip install pyside6 pillow-avif-plugin pillow-jxl-plugin
 From the project root:
 
 ```bash
-python AutoPics.py
+uv run AutoPics.py
 ```
 
 ## Usage overview
