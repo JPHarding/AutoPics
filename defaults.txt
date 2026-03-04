@@ -1,0 +1,8 @@
+standardImageResize 2048
+standardColor 1.2
+standardSharpness 2.0
+yourStandardsMozjpegQuality 94
+highQualityMozjpegQuality 90
+mediumQualityMozjpegQuality 75
+lowQualityMozjpegQuality 50
+standardMaxYourStandardsFileSizeInBytes 614400
