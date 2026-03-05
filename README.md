@@ -1,5 +1,4 @@
 # AutoPics
-# AutoPics
 Automated image preparation and compression tool.
 
 AutoPics is a desktop application for preparing and compressing product or catalog images in batches.
