@@ -111,7 +111,9 @@ class LongTaskWorker(QRunnable):
 @final
 class MainWindow(QMainWindow):
     MIN_IMAGE_WIDTH = 550
-    SUFFIXES = "(*.jpg *.jpeg *.png *.tif *.webp *.bmp *.ico *.psd *.avif *.tiff *.jxl)"
+    SUFFIXES = (
+        "(*.jpg *.jpeg *.png *.tif *.webp *.bmp *.ico *.psd *.avif *.tiff *.jxl *.jfif)"
+    )
 
     def __init__(self):
         super().__init__()
