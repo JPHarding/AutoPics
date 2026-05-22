@@ -75,8 +75,4 @@ uv run AutoPics.py
 
 - Project license: see [`LICENSE`](LICENSE).
 - Third-party notices: see files under [`third_party_licenses/`](thiAutomated image preparation and compression tool.
-
-AutoPics is a desktop application for preparing and compressing product or catalog images in batches.
-It provides a Qt-based GUI for selecting source/output folders, applying optional image cleanup/enhancement steps, and exporting optimized files in modern formats.
-Project license: see [`LICENSE`](LICENSE).
 - Third-party notices: see files under [`third_party_licenses/`](third_party_licenses).
